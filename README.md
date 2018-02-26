@@ -7,3 +7,5 @@ publish articles<br>
 cache<br>
 web page analysis<br>
 shopping cart implementation<br>
+##messageQueue
+message queue simple implementation
